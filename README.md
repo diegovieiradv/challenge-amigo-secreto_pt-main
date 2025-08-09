@@ -22,5 +22,10 @@ Este é um projeto simples de Amigo Secreto feito em HTML, CSS e JavaScript.
 ## Pré-requisitos
 - Navegador web moderno (Chrome, Firefox, Edge, etc).
 
+## Tecnologias Usadas
+- HTML
+- CSS
+- JAVASCRIPT
+
 ## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
