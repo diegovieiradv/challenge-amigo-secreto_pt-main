@@ -127,6 +127,7 @@ button {
 
 /* Listas */
 ul {
+    display: block;
     list-style-type: none;
     color: var(--color-text);
     font-family: "Inter", sans-serif;
@@ -136,10 +137,11 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
-    font-size: 22px;
+    color: #000000;
+    font-size: 30px;
     font-weight: bold;
     text-align: center;
+    c
 }
 
 /* Botão de sortear título */
